@@ -1,3 +1,7 @@
-## Custom OpenWRT Packages
+## OpenWRT Packages
 
-CSoellinger (z3rog1ven)
+### Quick Setup
+
+To install the organization packages you can simply add packages feed:
+
+[https://github.com/Zerogiven-OpenWRT-Packages/package-feed](https://github.com/Zerogiven-OpenWRT-Packages/package-feed)
